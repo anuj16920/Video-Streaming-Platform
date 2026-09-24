@@ -1,0 +1,4 @@
+- [ ] Create StreamX visual system and public pages.
+- [ ] Build responsive dashboards, learner/player experience, deterministic demo metrics, and cost calculator.
+- [ ] Add Cloud authentication and profile/roles/content/analytics schema with safe access policies.
+- [ ] Verify preview/build and key interactions; identify any real-provider integrations that remain unconfigured.
